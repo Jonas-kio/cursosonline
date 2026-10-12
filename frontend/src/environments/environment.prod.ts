@@ -1,3 +1,3 @@
 export const environment = {
-  apiBaseUrl: '/api'
+  apiBaseUrl: 'https://cursosonline-1cre.onrender.com/api'
 };
